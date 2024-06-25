@@ -2,26 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.hero {
+  background: url('/path-to-your-background-image.jpg') no-repeat center center/cover;
+  color: #fff;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.hero-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.hero button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background: #ff6347;
+  border: none;
+  color: #fff;
+  cursor: pointer;
 }
