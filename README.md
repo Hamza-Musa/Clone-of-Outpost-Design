@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,41 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-#### Tools and Technologies
-- **React** for building the user interface.
-- **GSAP** for animations.
-- **Three.js** for 3D graphics.
-- **Next.js** for server-side rendering and routing.
-
-#### Setup and Installation
-
-1. **Install Node.js**: Make sure you have Node.js and npm (Node Package Manager) installed.
-
-2. **Create a New Next.js Project**:
-  
-3. **Install Dependencies**:
-  
-
-#### Building the Project
-
-1. **Set Up the Basic Project Structure**:
-
-
-2. **Create a Hero Section with GSAP Animation**:
-
-
-3. **Integrate Three.js for 3D Graphics**:
-
-
-4. **Update Pages to Use Your Components**:
-
-   
-5. **Add Routing with Next.js**:
-
-
-6. **Deploy Your Application**:
-
-   - Once you are satisfied with your clone, you can deploy it using Vercel, Netlify, or another hosting service that supports Next.js applications.
-
->>>>>>> 9d62b6b940260c717205e45cb2d3de84b70f2606
